@@ -3,6 +3,7 @@ public class App {
         
         System.out.println(calculateModulus(4,2));
     }
+    
     public static int calculateModulus(int x, int y) {
         return x % y;
     }
